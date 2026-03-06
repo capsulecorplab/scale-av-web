@@ -13,7 +13,7 @@ The monitoring station has two monitors. On these monitors you will see multiple
 ==== Using the Mothership Control
 Mothership Control displays a list of rooms and a toggle. You will be informed which rooms should be monitored at the start of your shift. 
 
-image::./assets/Mothership-Control.png[Screenshot of Mothership Control]
+image::./assets/Mothership-Control.png[Screenshot of Mothership Control,pdfwidth=100%]
 
 The system is designed so that any rooms which are toggled on will create a window on the screen, even if you try to exit out. Exiting out will restart the window. 
 
