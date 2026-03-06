@@ -85,12 +85,12 @@ If you determine there is an issue, then log the issue and ask Michael Proctor-S
 * Use the Camera Controls window to move the camera to ensure Speakers are centered in the frame. 
 * If a speaker keeps leaving the frame (like pacing around), then you may want to zoom out.
 * Note when making camera adjustments: 
- * *Camera movement is sensitive.*
- * There is a *small delay *between you pressing a button and the result showing up on screen.
- * Wait for this lag as you make adjustments.
+** *Camera movement is sensitive.* Just press a direction control once at a time. 
+** There is a *small delay *between you pressing a button and the result showing up on screen.
+** Wait for this lag as you make adjustments.
 * Use the *Return Home*to automatically move back to the last known good position.
 * If you've moved the camera far away from the speaker, select *Return Home* to move back to the last known position of the speaker.
- * If using the *Return Home* button does not return to the speaker, manually find the location of the speaker and then select *Set Home*.
+** If using the *Return Home* button does not return to the speaker, manually find the location of the speaker and then select *Set Home*.
 
 === VLC/Monitoring Station Issues
 
