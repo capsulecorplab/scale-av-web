@@ -35,6 +35,7 @@ The Camera Controls window displays a menu, the video from a room, and camera co
 image::./assets/Camera-Controls.png[Screenshot of Camera Controls,pdfwidth=40%]
 
 Room Selection Menu
+
 image::./assets/Room-Selection.png[Screenshot of Room Selection Menu]
 
 Select the Room you want to control from the Room Selection menu. When selected the video feed will appear and you can control the room's cameras. 
@@ -42,11 +43,13 @@ Select the Room you want to control from the Room Selection menu. When selected 
 There are a few more menu items. Please do not use these without consulting an experienced operator. 
 
 HDMI Input
+
 image::./assets/HDMI-input.png[Screenshot of HDMI Input Menu]
 
 This menu controls which HDMI Input is set up to stream the feed. It can be useful in certain situations where the video isn't showing. 
 
 Select Scene
+
 image::./assets/Select-Scene.png[Screenshot of Select Scene Menu]
 
 This menu controls which window, the small window, or the large window, displays the video feed. 
