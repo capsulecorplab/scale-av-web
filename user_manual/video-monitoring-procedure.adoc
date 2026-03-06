@@ -1,33 +1,36 @@
 == Video Monitoring Procedure
 
-Always remember:
+=== Before You Begin
+* *Avoid spills!* If you must have a drink, make sure it has a cap or lid!
+* New volunteers shadow an experienced operator. 
+* Minimize interruptions to MPS:
+  * Do not blindly react to the monitoring feed: it is several seconds behind real-time. Observe the feed for several seconds to determine if problems persist before reporting. It sometimes freezes. Turn the toggle on and off again before reporting an issue. 
 
-* *Make sure to cover your drinks!*
-* Have the headphones on at the same time as the walkie talkie earpiece.
+=== About Monitoring Station
 
-=== Check to see if the Speaker is centered in the frame
+The monitoring station has two monitors. On these monitors you will see multiple windows including the Mothership Control, windows showing Talks, Camera Controls, and the Conference Schedule. 
 
-If not then pan/tilt the camera so that the Speaker is centered in the frame.
-If a speaker keeps leaving the frame (like pacing around), then you may want to zoom out.
+==== Using the Mothership Control
 
-*Note when making camera adjustments*: Camera movement is sensitive.
-There is a small delay between you pressing a button and the result showing up on screen.
-Wait for this lag as you make adjustments.
+Mothership Control displays a list of rooms and a toggle. You will be informed which rooms should be monitored at the start of your shift. If the video freezes, use the toggle to restart the video, and then drag the window back where you had it. 
 
-Use the camera movement controls to position the Camera to show the speaker in the middle of the frame.
-Use the *Set Home* button along the way, so that if you mess up and move the camera too far or the camera gets moved accidentally you can automatically move back to the last known good position by pressing the *Home* button.
-If you've moved the camera to an unknown location, press *Home* to move back to the last known position.
+The system is designed so that any rooms which are toggled on will create a window on the screen, even if you try to exit out. Exiting out will restart the window. 
 
-Once the speaker is properly framed, press *Set Home* again to lock in the new position.
+=== Listening to Audio
 
-=== Listen to Audio of Each Room
+To hear the audio of a room, select a room's window. 
 
-To Hear Audio in the various rooms, click room's window.
+==== Using the Camera Controls
+
+HDMI Input - 
+
+
+=== Recognizing Audio Issues
+
 If the video in the Operations Control window disappears or is not shown, then refresh the page.
 If the Operations Control window is not open or crashes, open Firefox and use the address bar to open it again.
 The web address is: + `http://<room-letter/number>.scaleav.us/html-frontend/operate.html`
 
-Listen for audio problems in the room.
 If you suspect there are audio problems, you may want to check other rooms first to get a feel for the baseline of what other rooms sound like.
 If you determine there is an issue, then log the issue and ask Michael Proctor-Smith for help.
 Examples of potential issues are,
@@ -42,7 +45,7 @@ When we hear on the radio that there is an audio problem in a room, confirm whet
 If there is a problem, let the person on the radio know if the problem is with the camera audio or the room ambient audio.
 If the video is also cutting out, let them know about that too.
 
-=== Observe the Video Feed
+=== Recognizing Video Issues
 
 Observe the video feed and confirm that both the PTZ Camera video and the Slides video is displaying properly.
 If Video is not working then log the issue and ask Michael Proctor-Smith.
@@ -52,9 +55,20 @@ Examples of problems that could happen are:
 * Slides are cut off: the speaker may have misformatted the slides or has not configured their laptop properly to display at the correct resolution (*1024x768@60Hz*)
 * Video is Choppy or it goes black: if the video goes black, make sure the projector is physically turned on, and still no picture/dark/black, then alert senior tech.
 
-=== SCALE Signs Crashing
+==== Centering Speakers in the frame
 
-If there are reports of the SCALE Signs web browser crashing, press "`Restart Signs`"
+If not then pan/tilt the camera so that the Speaker is centered in the frame.
+If a speaker keeps leaving the frame (like pacing around), then you may want to zoom out.
+
+*Note when making camera adjustments*: Camera movement is sensitive.
+There is a small delay between you pressing a button and the result showing up on screen.
+Wait for this lag as you make adjustments.
+
+Use the camera movement controls to position the Camera to show the speaker in the middle of the frame.
+Use the *Set Home* button along the way, so that if you mess up and move the camera too far or the camera gets moved accidentally you can automatically move back to the last known good position by pressing the *Home* button.
+If you've moved the camera to an unknown location, press *Home* to move back to the last known position.
+
+Once the speaker is properly framed, press *Set Home* again to lock in the new position.
 
 === VLC/Monitoring Station Issues
 
@@ -63,7 +77,7 @@ A new VLC window will open in its place.
 
 If the monitoring station computers are acting up, inform Michael Starch or Matthew Campbell
 
-==== Last and Final Resort:
+*Last and Final Resort:*
 
 If the monitoring station computer crashes or freezes, you can restart the system:
 
