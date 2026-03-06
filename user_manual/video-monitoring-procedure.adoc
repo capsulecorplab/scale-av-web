@@ -1,4 +1,4 @@
-== Video Monitoring Procedure
+== Audio and Video Monitoring Procedure
 
 === Before You Begin
 * *Avoid spills!* If you must have a drink, make sure it has a cap or lid!
@@ -8,24 +8,46 @@
 
 === About Monitoring Station
 
-The monitoring station has two monitors. On these monitors you will see multiple windows including the Mothership Control, windows showing Talks, Camera Controls, and the Conference Schedule. 
+The monitoring station has two monitors. On these monitors you will see multiple windows including the Mothership Control, windows showing Talks, Camera Controls, and the Conference Schedule. In this section we will familiarize you with the station, so that you will be ready to following the monitoring procedures in the following sections. 
 
 ==== Using the Mothership Control
 
-Mothership Control displays a list of rooms and a toggle. You will be informed which rooms should be monitored at the start of your shift. If the video freezes, use the toggle to restart the video, and then drag the window back where you had it. 
+image::./assets/Mothership-Control.png
+
+Mothership Control displays a list of rooms and a toggle. You will be informed which rooms should be monitored at the start of your shift. 
 
 The system is designed so that any rooms which are toggled on will create a window on the screen, even if you try to exit out. Exiting out will restart the window. 
 
-=== Listening to Audio
+=== Room Windows
 
-To hear the audio of a room, select a room's window. 
+image::/assets/LCARS-II.png
+The Room Window consists of a banner, a video feed, and a presentation feed. 
+
+You will be able to hear the audio from one room at a time. To hear the audio of a room, select a room's window. You will only hear the audio while a room is selected. See Monitoring Audio Issues section for the full procedure. 
+
+Note that the Room Windows video can freeze. If the video freezes, use the toggle from the Mothership Control to restart the video, and then drag the window back where you had it. 
 
 ==== Using the Camera Controls
 
-HDMI Input - 
+The Camera Controls window displays a menu, the video from a room, and camera controls. You will mostly use the Room Selection menu to select a room you want to control, and the movement controls to position the camera. See the Monitoring Video Issues section for the full procedure. 
 
+image::./assets/Camera-Controls.png
 
-=== Recognizing Audio Issues
+Room Selection Menu
+image::./assets/Room-Selection.png
+Select the Room you want to control from the Room Selection menu. When selected the video feed will appear and you can control the room's cameras. 
+
+There are a few more menu items. Please do not use these without consulting an experienced operator. 
+
+HDMI Input
+image::./assets/HDMI-input.png
+This menu controls which HDMI Input is set up to stream the feed. It can be useful in certain situations where the video isn't showing. 
+
+Select Scene
+image::./assets/Select-Scene.png
+This menu controls which window, the small window, or the large window, displays the video feed. 
+
+=== Monitoring Audio Issues
 
 If the video in the Operations Control window disappears or is not shown, then refresh the page.
 If the Operations Control window is not open or crashes, open Firefox and use the address bar to open it again.
@@ -65,7 +87,7 @@ There is a small delay between you pressing a button and the result showing up o
 Wait for this lag as you make adjustments.
 
 Use the camera movement controls to position the Camera to show the speaker in the middle of the frame.
-Use the *Set Home* button along the way, so that if you mess up and move the camera too far or the camera gets moved accidentally you can automatically move back to the last known good position by pressing the *Home* button.
+Use the *Return Home*to automatically move back to the last known good position.
 If you've moved the camera to an unknown location, press *Home* to move back to the last known position.
 
 Once the speaker is properly framed, press *Set Home* again to lock in the new position.
