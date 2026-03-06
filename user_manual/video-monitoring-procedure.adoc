@@ -18,7 +18,7 @@ Mothership Control displays a list of rooms and a toggle. You will be informed w
 
 The system is designed so that any rooms which are toggled on will create a window on the screen, even if you try to exit out. Exiting out will restart the window. 
 
-=== Room Windows
+==== Room Windows
 
 image::/assets/LCARS-II.png
 The Room Window consists of a banner, a video feed, and a presentation feed. 
