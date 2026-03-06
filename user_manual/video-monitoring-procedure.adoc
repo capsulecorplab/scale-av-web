@@ -32,7 +32,7 @@ Note that the Room Windows video can freeze. If the video freezes, use the toggl
 
 The Camera Controls window displays a menu, the video from a room, and camera controls. You will mostly use the Room Selection menu to select a room you want to control, and the movement controls to position the camera. See the Monitoring Video Issues section for the full procedure. 
 
-image::./assets/Camera-Controls.png[Screenshot of Camera Controls]
+image::./assets/Camera-Controls.png[Screenshot of Camera Controls,width=80%,height=80%]
 
 Room Selection Menu
 image::./assets/Room-Selection.png[Screenshot of Room Selection Menu]
